@@ -49,4 +49,7 @@ Timeperiod : 1ms
 **Result:**  
 Attenuation and bending loss characteristics verified.
 
+<img width="570" height="801" alt="image" src="https://github.com/user-attachments/assets/26de77c3-871f-437c-af46-990c003013a6" />
+
+
 ---
